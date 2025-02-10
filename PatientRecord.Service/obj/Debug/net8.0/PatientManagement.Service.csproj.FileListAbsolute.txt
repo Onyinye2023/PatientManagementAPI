@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Desktop\PatientManagement\PatientRecord\PatientRecord.Service\bin\Debug\net8.0\PatientManagement.Service.deps.json
+C:\Users\user\OneDrive\Desktop\PatientManagement\PatientRecord\PatientRecord.Service\bin\Debug\net8.0\PatientManagement.Service.dll
+C:\Users\user\OneDrive\Desktop\PatientManagement\PatientRecord\PatientRecord.Service\bin\Debug\net8.0\PatientManagement.Service.pdb
+C:\Users\user\OneDrive\Desktop\PatientManagement\PatientRecord\PatientRecord.Service\obj\Debug\net8.0\PatientManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\PatientManagement\PatientRecord\PatientRecord.Service\obj\Debug\net8.0\PatientManagement.Service.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\PatientManagement\PatientRecord\PatientRecord.Service\obj\Debug\net8.0\PatientManagement.Service.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\PatientManagement\PatientRecord\PatientRecord.Service\obj\Debug\net8.0\PatientManagement.Service.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\PatientManagement\PatientRecord\PatientRecord.Service\obj\Debug\net8.0\PatientManagement.Service.dll
+C:\Users\user\OneDrive\Desktop\PatientManagement\PatientRecord\PatientRecord.Service\obj\Debug\net8.0\refint\PatientManagement.Service.dll
+C:\Users\user\OneDrive\Desktop\PatientManagement\PatientRecord\PatientRecord.Service\obj\Debug\net8.0\PatientManagement.Service.pdb
+C:\Users\user\OneDrive\Desktop\PatientManagement\PatientRecord\PatientRecord.Service\obj\Debug\net8.0\ref\PatientManagement.Service.dll

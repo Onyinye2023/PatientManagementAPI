@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UVwmvglg/zc0INgHBEK/g4CWl3LBh0GpfWFYpFK5xGE=",
+  "Source": "PatientManagement.Api",
+  "BasePath": "_content/PatientManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
